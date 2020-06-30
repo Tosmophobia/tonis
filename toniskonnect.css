@@ -1,0 +1,13 @@
+.head{background:blue; }
+.tonis{background: #999999;}
+.item a{color:white;}
+.item a:hover{color: blue;}
+.book{background-image: url(tonisb2.jpeg);height: 400px}
+.yemi{border: 1px solid red;padding: 2px 5px;
+}
+.line{
+	width: 1000px;
+	border:1px solid green;
+	position: absolute;
+	top: 25px;
+}

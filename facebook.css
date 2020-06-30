@@ -1,0 +1,42 @@
+.face{background-color: #191970;position: absolute;
+	width: 1500px;height: 40px;border: 15px solid #191970;
+}
+
+.mail{margin-left: 840px;
+
+}
+.pass{margin-left: 1020px;margin-top: -40px;
+
+}
+.button{margin-left: 1200px;margin-top: -40px;
+
+}
+.fb{margin-left: 300px;
+
+}
+.line{height: 500px;
+	border:1px solid #f0f8ff;
+	position: absolute;
+	float:left;
+	left:100px;
+	top:50px;
+ 	background-color:red;margin-left: 700px;margin-top: 100px;
+}
+.fm{margin-left: 840px;margin-top: -200px;
+}
+.input{position: relative;padding: 5px 10px 5px 10px;margin-bottom: 25px;border-radius: 10px;font-size: 15px;width: 200px;
+}
+.input2{position: relative;padding: 5px 10px 5px 10px;margin-bottom: 25px;border-radius: 10px;font-size: 15px;width: 430px;
+}
+.rad{position:relative;
+left: 10px;
+top: 10px;
+}
+.but{margin-left: 840px;margin-top: 60px;padding: 5px 10px 5px 10px;border-radius: 10px;font-size: 20px;border: 1px solid red;width: 200px;background-color: green;
+}
+.line2{
+	width: 1000px;
+	border:1px solid silver;
+	position: absolute;
+	margin-left: 200px;
+}
